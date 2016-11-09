@@ -1,0 +1,200 @@
+.bodyfont { 
+font-family: 'Source Sans Pro', 'Arial', sans-serif;
+font-weight: 300;
+font-size: 18px;
+line-height: 1.5em;
+}
+
+
+
+
+
+.bodyfont--bold { 
+font-weight: 700 ;}
+
+.bodyfont--white { 
+color: #F2F2F2; }
+
+
+.maintitle { 
+font-family: 'Oswald', 'Arial', sans-serif;
+text-transform: uppercase;
+font-size: 52px;
+color: #F2F2F2;
+
+}
+
+
+
+
+.secondtitle { 
+color: #F2F2F2;
+
+}
+
+
+
+html { 
+  background: url(http://i.imgur.com/GxFR1s5.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+
+
+
+
+a { 
+text-decoration: none; }
+
+
+
+
+
+.containergen{
+width: 780px;
+height: 1040px; 
+/* automatically center: top & bottom */
+margin: 0 auto; 
+margin-top: 40px;
+
+}
+
+
+
+
+.bannerbox{
+width: 780px;
+height: 300px;
+background-color: rgba(0, 0, 0, 0.7);
+}
+
+
+
+
+.socialbox{
+width: 90px;
+height: 40px;
+margin: 0 auto;
+margin-top: 20px;
+margin-bottom: 20px;
+padding-left: 10px;
+
+}
+
+
+
+.contentbox{
+width:780px;
+height: 500px;
+}
+
+
+
+
+
+.biobox{
+background-color: #B09AC4;
+width: 310px;
+height: 500px;
+padding: 40px;
+float: left;
+}
+
+
+
+
+.skillsbox { 
+background-color: rgba(0, 0, 0, 0.7) ;
+width: 310px;
+height: 500px;
+padding: 40px;
+float: left;
+}
+
+
+
+
+ul { 
+padding: 0;
+list-style: none;
+}
+
+
+
+.clear { 
+clear: both; }
+
+
+
+/* SOCIAL ICONS */ 
+
+.twitter { 
+width: 40px;
+height: 40px;
+margin: 0 auto;
+
+}
+
+
+
+.twitter:hover {
+    transform: scale(0.8, 0.8);
+}
+
+
+
+.fb { 
+width: 40px;
+height: 40px;
+margin: 0 auto;
+}
+
+
+
+.fb:hover {
+    transform: scale(0.8, 0.8);
+    opacity: 1;
+}
+
+
+
+.contactbutton a { 
+font-family: 'Oswald', 'Arial', sans-serif;
+text-transform: uppercase;
+font-size: 18px;
+text-decoration: none;
+color: white;
+display: block;
+margin: 0 auto;
+margin-top: 20px;
+width: 200px;
+height: 40px;
+border-style:solid;
+text-align: center;
+border-width: thin;
+border-color: white;
+vertical-align: middle;
+border-radius: 25px;
+padding-top: 10px;
+text-decoration: none;
+    
+}
+
+
+
+/* LINKS */
+a:hover{ 
+color: #FFCCAD; }
+
+
+
+
+.sig { 
+margin-left: 220px;
+margin-top: 200px; 
+width: 80px;
+height: 80px; }
